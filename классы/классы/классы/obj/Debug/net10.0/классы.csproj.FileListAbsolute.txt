@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\bin\Debug\net10.0\классы.exe
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\bin\Debug\net10.0\классы.deps.json
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\bin\Debug\net10.0\классы.runtimeconfig.json
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\bin\Debug\net10.0\классы.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\bin\Debug\net10.0\классы.pdb
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\классы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\классы.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\классы.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\классы.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\классы.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\refint\классы.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\классы.pdb
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\классы.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\классы\классы\классы\obj\Debug\net10.0\ref\классы.dll
