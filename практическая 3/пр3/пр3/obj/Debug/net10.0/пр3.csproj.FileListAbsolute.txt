@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\пр3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\пр3.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\пр3.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\пр3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\bin\Debug\net10.0\пр3.exe
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\bin\Debug\net10.0\пр3.deps.json
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\bin\Debug\net10.0\пр3.runtimeconfig.json
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\bin\Debug\net10.0\пр3.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\bin\Debug\net10.0\пр3.pdb
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\пр3.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\refint\пр3.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\пр3.pdb
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\пр3.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\пр3\пр3\obj\Debug\net10.0\ref\пр3.dll
