@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\bin\Debug\net10.0\зд2.exe
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\bin\Debug\net10.0\зд2.deps.json
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\bin\Debug\net10.0\зд2.runtimeconfig.json
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\bin\Debug\net10.0\зд2.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\bin\Debug\net10.0\зд2.pdb
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\зд2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\зд2.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\зд2.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\зд2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\зд2.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\refint\зд2.dll
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\зд2.pdb
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\зд2.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\колледж\косицкий\практические\практическая 4\зд2\зд2\obj\Debug\net10.0\ref\зд2.dll
